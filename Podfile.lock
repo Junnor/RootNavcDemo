@@ -1,0 +1,14 @@
+PODS:
+  - RTRootNavigationController (0.6.0):
+    - RTRootNavigationController/Core (= 0.6.0)
+  - RTRootNavigationController/Core (0.6.0)
+
+DEPENDENCIES:
+  - RTRootNavigationController
+
+SPEC CHECKSUMS:
+  RTRootNavigationController: 87c32e6f58976edaccbc0e6060cd28d18f98c2f5
+
+PODFILE CHECKSUM: e16e6876755bec73ab0e7057c10e30aeece79068
+
+COCOAPODS: 1.2.1
